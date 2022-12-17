@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8372a4d8.css",
-    "main.js": "/static/js/main.fa479d29.js",
-    "static/media/pexels-cottonbro-5473960.jpg": "/static/media/pexels-cottonbro-5473960.098403f683df39c2924a.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/as.jpeg": "/static/media/as.09c7e6cd9f4bcb082a98.jpeg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/ClipartKey_257147.png": "/static/media/ClipartKey_257147.bf24ba02c4336fc98e0d.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/index.html",
-    "main.8372a4d8.css.map": "/static/css/main.8372a4d8.css.map",
-    "main.fa479d29.js.map": "/static/js/main.fa479d29.js.map"
+    "main.css": "/CalculatorApp/static/css/main.1b1166af.css",
+    "main.js": "/CalculatorApp/static/js/main.bec87f28.js",
+    "static/media/pexels-cottonbro-5473960.jpg": "/CalculatorApp/static/media/pexels-cottonbro-5473960.098403f683df39c2924a.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/CalculatorApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/as.jpeg": "/CalculatorApp/static/media/as.09c7e6cd9f4bcb082a98.jpeg",
+    "static/media/fontawesome-webfont.eot": "/CalculatorApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/CalculatorApp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/ClipartKey_257147.png": "/CalculatorApp/static/media/ClipartKey_257147.bf24ba02c4336fc98e0d.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/CalculatorApp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/CalculatorApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/CalculatorApp/index.html",
+    "main.1b1166af.css.map": "/CalculatorApp/static/css/main.1b1166af.css.map",
+    "main.bec87f28.js.map": "/CalculatorApp/static/js/main.bec87f28.js.map"
   },
   "entrypoints": [
-    "static/css/main.8372a4d8.css",
-    "static/js/main.fa479d29.js"
+    "static/css/main.1b1166af.css",
+    "static/js/main.bec87f28.js"
   ]
 }
